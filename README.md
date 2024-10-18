@@ -50,5 +50,5 @@ Welcome to my GitHub! I'm a **Data Scientist**, **Deep Learning Enthusiast**, an
 ## 🔗 Connect with Me:
 
 - [LinkedIn]([https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/david-serrano-d%C3%ADaz-a6236a259/))
-- [Website](https://delfhos.com)
+- [Delfhos Website](https://delfhos.com)
 
