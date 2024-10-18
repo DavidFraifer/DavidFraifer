@@ -2,8 +2,6 @@
 
 Welcome to my GitHub! I'm a **Data Scientist**, **Deep Learning Enthusiast**, and **Consultant** passionate about transforming businesses with cutting-edge technology. I work on projects that range from financial modeling to building scalable software solutions. 🚀
 
-![Banner](https://your-image-url.com/banner.png)
-
 
 ### 🌟 My Key Skills:
 - **Data Science** & **Machine Learning**
@@ -24,8 +22,8 @@ Welcome to my GitHub! I'm a **Data Scientist**, **Deep Learning Enthusiast**, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidFraifer&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidFraifer&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -44,8 +42,8 @@ Welcome to my GitHub! I'm a **Data Scientist**, **Deep Learning Enthusiast**, an
 ## 🏆 Achievements:
 
 - 🎓 Graduated with a degree in **Information Systems Engineering UAH**
-- 🧠 Delfhos: Simplifying deep learning for small and medium-sized businesses.
-- 🔍 Research on financial and business analysis.
+- 🧠 Delfhos: Simplifying **deep learning** for small and medium-sized businesses.
+- 🔍 Research on financial and **business analysis**.
 
 ---
 
@@ -54,6 +52,3 @@ Welcome to my GitHub! I'm a **Data Scientist**, **Deep Learning Enthusiast**, an
 - [LinkedIn]([https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/david-serrano-d%C3%ADaz-a6236a259/))
 - [Website](https://delfhos.com)
 
----
-
-![Footer](https://your-image-url.com/footer.png)
